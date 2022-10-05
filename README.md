@@ -12,5 +12,5 @@ Les caractéristiques du Language Java:
 
 ## Documentation
 
-Lien vers la documentation officiel : [Documentation](https://git-scm.com/doc)
+Lien vers la documentation officielle : [Documentation](https://git-scm.com/doc)
 
