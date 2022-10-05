@@ -4,7 +4,7 @@
 
 Les caractéristiques du Language Java:
 
-* il s'agit d'un language orienté **objet**
+* il s'agit d'un language **orienté objet**
 
 * il est *portable*
 
@@ -12,5 +12,5 @@ Les caractéristiques du Language Java:
 
 #Documentation
 
-Lien vers la ``documentation officiel`` : [Documentation](https://git-scm.com/doc)
+Lien vers la - documentation officiel : [Documentation](https://git-scm.com/doc)
 
