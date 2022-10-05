@@ -11,6 +11,6 @@ Les caractéristiques du Language Java:
 * il est multithreadé
 
 #Documentation
-```diff
-Lien vers la - documentation officiel :``` [Documentation](https://git-scm.com/doc)
+
+Lien vers la documentation officiel : [Documentation](https://git-scm.com/doc)
 
