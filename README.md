@@ -1,13 +1,16 @@
-# TP n°1
+# Le language Java
 
-## Etapes du TP
+## Introduction
 
-* **Créez votre compte GiHub** si ce n'est pas déjà fait
-* **Forkez** le projet **git-tp1** (bouton Fork présent en haut à droite lorsque vous accédez à un repository d'un autre compte)
-* **Clonez** le projet
-* **Modifiez** le fichier **README.md** avec pour but de reproduire l'exemple suivant : 
+Les caractéristiques du Language Java:
 
-<kbd>![alt text](https://github.com/DiginamicFormation/git-tp1/blob/main/resources/Template.png)</kbd>
+* il s'agit d'un language orienté **objet**
 
-* **Commitez** le projet en local avec le message suivant : **Première version**
-* **Publiez** vos modifications sur GitHub
+* il est *portable*
+
+* il est multithreadé
+
+#Documentation
+
+Lien vers la ``documentation officiel`` : [Documentation](https://git-scm.com/doc)
+
